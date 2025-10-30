@@ -6,8 +6,8 @@ Ett interaktivt quiz-spel om Islam med 10 roliga och lärorika frågor baserade 
 
 Detta quiz innehåller intressanta fakta om Islam som många kanske inte känner till, till exempel:
 - Vad "Jihad" egentligen betyder
-- Numeriska mirakel i Quran (t.ex. hur ofta "dag" och "månad" nämns)
-- Vetenskapliga fakta som uppenbarades i Quran
+- Numeriska mirakel i Quranen (t.ex. hur ofta "dag" och "månad" nämns)
+- Vetenskapliga fakta som uppenbarades i Quranen
 - Berättelsen bakom det svenska uttrycket "sjusovare"
 
 ## 🎮 Hur man spelar
