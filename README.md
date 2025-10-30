@@ -111,7 +111,7 @@ Detta är ett utbildningsprojekt skapat för övning i JavaScript och Node.js.
 
 ## 🙏 Tack till
 
-- **EC Utbildning** - För Backend-utveckling kursen
+- **EC Utbildning** - För Backend-utvecklings kursen
 - **Claude AI** - För vägledning och förklaringar under utvecklingen
 - **readline-sync** - För att göra terminal-input enkelt
 
