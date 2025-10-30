@@ -12,7 +12,7 @@ function prompt(text) {
 const questions = [
     {
         question: "Vad betyder ordet 'Jihad' egentligen på arabiska?",
-        options: ["A) Heligt krig", "B) Kamp/ansträngning", "C)Bön", "D) Fasta"],
+        options: ["A) Heligt krig", "B) Kamp/ansträngning", "C) Bön", "D) Fasta"],
         correctAnswer: "B",
         explanation: "Jihad betyder 'kamp' eller 'ansträngning' och syftar oftast på den inre kampen mot sina egna svagheter."
     },
@@ -136,3 +136,4 @@ function startQuiz() {
 }
 
 // Starta quizet ---------------------------------------------
+startQuiz();
