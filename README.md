@@ -4,7 +4,7 @@ Ett interaktivt quiz-spel om Islam med 10 roliga och lärorika frågor baserade 
 
 ## 📋 Om projektet
 
-Detta quiz innehåller intressanta fakta om Islam som många kanske inte alla känner till, till exempel:
+Detta quiz innehåller intressanta fakta om Islam som många kanske inte känner till, till exempel:
 - Vad "Jihad" egentligen betyder
 - Numeriska mirakel i Quranen (t.ex. hur ofta "dag" och "månad" nämns)
 - Vetenskapliga fakta som uppenbarades i Quranen
